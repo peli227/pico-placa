@@ -1,0 +1,37 @@
+body{
+    font-family: Helvetica;
+}
+
+#header{
+    text-align: center;
+    background-color: #51ccf1;
+    border-radius: 20px;
+    width: auto;
+    line-height: 40px;
+    margin: 30px 20px 10px 0px ;
+}
+
+h1{
+    vertical-align: middle;
+    color: white;
+    font-weight: bold;
+}
+
+.row{
+    margin: 20px 20px;
+}
+
+
+#boton{
+    border-radius: 20px;
+}
+#results{
+    margin: 30px 20px 10px 0px ;
+    text-align: center;
+    height: 40px;
+    width: auto;
+    line-height: 40px;
+    background-color: #51ccf1;
+    border-radius: 20px;
+}
+
